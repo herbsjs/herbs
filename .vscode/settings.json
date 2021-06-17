@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "C:\\Python38\\python.exe",
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#4e2d38",
+    "activityBar.background": "#460D6B",
+    "titleBar.activeBackground": "#621296",
+    "titleBar.activeForeground": "#FCF9FE"
+  }
+}
