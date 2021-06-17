@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhomarolo/herbsjs.git"
+    "url": "https://github.com/jhomarolo/herbs.git"
   },
   "config": {
     "commitizen": {

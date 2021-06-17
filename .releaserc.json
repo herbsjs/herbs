@@ -1,6 +1,6 @@
 {
   "branches": "main",
-  "repositoryUrl": "https://github.com/jhomarolo/herbsjs",
+  "repositoryUrl": "https://github.com/jhomarolo/herbs",
   "debug": "true",
   "plugins": [
     "@semantic-release/commit-analyzer",
