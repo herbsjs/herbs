@@ -5,11 +5,19 @@
 Library that unify all core librarys from herbsjs
 
 ### Installing
-    $ npm install @herbsjs/herbs
+```
+  $ npm install @herbsjs/herbs
+```
 
 ### Using
 
+```
+import  herbs  from 'herbs'
+const {usecase, step, Ok, Err, entity, field, validate, errorCodes ,checker} = herbs
+```
+
 Please visit out website for more information: https://herbsjs.org
+
 
 ### Any doubts?
 
