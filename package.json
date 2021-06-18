@@ -45,7 +45,7 @@
   "license": "MIT",
   "dependencies": {
     "buchu": "^1.0.15",
-    "gotu": "^1.0.21",
+    "gotu": "^1.0.22",
     "suma": "^1.0.10"
   },
   "repository": {
