@@ -13,7 +13,7 @@ Library that unify all core librarys from herbsjs
 
 ``` javascript
 
-import herbs from 'herbs'
+import herbs from '@herbsjs/herbs'
 const {usecase, step, Ok, Err, entity, field, validate, errorCodes ,checker} = herbs
 
 ```
