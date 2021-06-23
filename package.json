@@ -2,7 +2,8 @@
   "name": "@herbsjs/herbs",
   "version": "1.1.2",
   "description": "A domain-first framework. Code your domain and your infrastructure will follow",
-  "main": "./src/herbs.js",
+  "main": "src/commonjs/herbs.cjs",
+  "module": "src/esm/herbs.mjs",
   "scripts": {
     "test": "mocha --timeout 999999 --colors --recursive ./test",
     "lint:fix": "npx eslint \"**/*.{js,jsx}\" --fix",
@@ -10,18 +11,20 @@
     "semantic-release": "semantic-release",
     "commit": "cz"
   },
-  "type": "module",
+  "exports": {
+      "import": "./src/esm/herbs.mjs",
+      "require": "./src/commonjs/herbs.cjs"
+  },
   "directories": {
     "lib": "src"
-  },
-  "engines": {
-    "node": ">= 12.16.2"
   },
   "keywords": [
     "entity",
     "value object",
-    "validation",
-    "error code only"
+    "use case",
+    "clean architecture",
+    "herbsjs",
+    "herbs"
   ],
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",

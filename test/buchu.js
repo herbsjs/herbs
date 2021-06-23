@@ -1,7 +1,6 @@
-import { ok, deepStrictEqual } from 'assert'
+const { ok, deepStrictEqual }  = require('assert')
 
-import  herbs  from '../src/herbs.js'
-const {usecase, step, Ok, Err} = herbs
+const {usecase, step, Ok, Err} = require('../src/commonjs/herbs.cjs')
 
 describe('A use case', () => {
 

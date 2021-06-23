@@ -1,7 +1,5 @@
-import assert from 'assert'
-
-import herbs from '../src/herbs.js'
-const {entity, field} = herbs
+const assert  = require('assert')
+const {entity, field} = require('../src/commonjs/herbs.cjs')
 
 describe('A entity', () => {
 

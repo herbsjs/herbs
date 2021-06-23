@@ -1,7 +1,6 @@
-import assert from 'assert'
+const assert = require('assert')
+const {validate} = require('../src/commonjs/herbs.cjs')
 
-import herbs from '../src/herbs.js'
-const {validate} = herbs
 
 describe('suma', () => {
 
