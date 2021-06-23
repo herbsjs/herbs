@@ -1,6 +1,6 @@
-import suma from 'suma'
-import gotu from 'gotu'
-import buchu from 'buchu'
+import suma from '@herbsjs/suma'
+import gotu from '@herbsjs/gotu'
+import buchu from '@herbsjs/buchu'
 
 export default {
   validate : suma.validate,

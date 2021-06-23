@@ -44,9 +44,9 @@
   "author": "Jhonathan de Souza Soares",
   "license": "MIT",
   "dependencies": {
-    "buchu": "^1.0.15",
-    "gotu": "^1.0.22",
-    "suma": "^1.0.10"
+    "@herbsjs/buchu": "^1.0.1",
+    "@herbsjs/gotu": "^1.0.0",
+    "@herbsjs/suma": "^1.0.0"
   },
   "repository": {
     "type": "git",
