@@ -23,7 +23,7 @@ jobs:
       run: npm ci
 
     - name: Installing dependencies
-      run: npm i --ignore-scripts
+      run: npm install --no-optional
 
     - name: Build Step
       env:
