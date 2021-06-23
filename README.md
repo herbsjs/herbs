@@ -1,6 +1,6 @@
  <p align="center"><img src="https://raw.githubusercontent.com/herbsjs/herbs/main/docs/logo.png" height="220"></p>
 
-# Herbsjs
+# [![CI](https://github.com/herbsjs/herbs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/herbsjs/herbs/actions/workflows/ci.yml) Herbsjs
 
 Library that unify all core librarys from herbsjs
 
