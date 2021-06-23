@@ -11,10 +11,21 @@ Library that unify all core librarys from herbsjs
 
 ### Using
 
+
+#### (ES6 module syntax)
+
 ``` javascript
 
 import herbs from '@herbsjs/herbs'
 const {usecase, step, Ok, Err, entity, field, validate, errorCodes ,checker} = herbs
+
+```
+
+#### (CommonJS syntax)
+
+``` javascript
+
+const { usecase, step, Ok, Err, entity, field, validate, errorCodes ,checker } = require('@herbsjs/herbs')
 
 ```
 
