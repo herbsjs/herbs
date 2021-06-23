@@ -20,7 +20,7 @@ jobs:
         node-version: '12.16.2'
 
     - name: Install Packages
-      run: npm ci
+      run: npm ci --no-optional
 
     - name: Installing dependencies
       run: npm install --no-optional
