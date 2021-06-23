@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/herbsjs/herbs/compare/v1.1.2...v1.2.0) (2021-06-23)
+
+
+### Features
+
+* add es6 and commonjs support ([3065c17](https://github.com/herbsjs/herbs/commit/3065c17a9cac39dd5a75040167514c940dff56ed))
+
 ## [1.1.2](https://github.com/herbsjs/herbs/compare/v1.1.1...v1.1.2) (2021-06-23)
 
 
