@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/herbsjs/herbs/compare/v1.1.0...v1.1.1) (2021-06-23)
+
+
+### Bug Fixes
+
+* **package:** fix package-lock.json ([4070b20](https://github.com/herbsjs/herbs/commit/4070b205035e41ed583cd4e1a21c528150407dfd))
+
 # [1.1.0](https://github.com/herbsjs/herbs/compare/v1.0.2...v1.1.0) (2021-06-23)
 
 
