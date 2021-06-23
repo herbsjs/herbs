@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/herbsjs/herbs/compare/v1.0.2...v1.1.0) (2021-06-23)
+
+
+### Features
+
+* change the sources of herbs core library ([3629408](https://github.com/herbsjs/herbs/commit/362940803466e8342efaf21090c005a3e3cdd66c))
+
 ## [1.0.2](https://github.com/herbsjs/herbs/compare/v1.0.1...v1.0.2) (2021-06-18)
 
 
