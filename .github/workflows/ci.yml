@@ -20,10 +20,10 @@ jobs:
         node-version: '12.16.2'
 
     - name: Install Packages
-      run: npm ci --no-optional
+      run: npm ci
 
     - name: Installing dependencies
-      run: npm install --no-optional
+      run: npm i --ignore-scripts
 
     - name: Build Step
       env:
