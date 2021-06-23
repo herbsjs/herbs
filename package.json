@@ -5,8 +5,8 @@
   "main": "./src/herbs.js",
   "scripts": {
     "test": "mocha --timeout 999999 --colors --recursive ./test",
-    "lint": "npx eslint \"**/*.{js,jsx}\" --quiet",
     "lint:fix": "npx eslint \"**/*.{js,jsx}\" --fix",
+    "lint": "npx eslint \"**/*.{js,jsx}\" --quiet",
     "semantic-release": "semantic-release",
     "commit": "cz"
   },
