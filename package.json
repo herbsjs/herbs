@@ -9,6 +9,7 @@
     "lint:fix": "npx eslint \"**/*.{js,jsx}\" --fix",
     "lint": "npx eslint \"**/*.{js,jsx}\" --quiet",
     "semantic-release": "semantic-release",
+    "coverage": "nyc --reporter=html mocha ./test npm test",
     "commit": "cz"
   },
   "exports": {
@@ -59,7 +60,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@herbsjs/buchu": "^1.0.1",
+    "@herbsjs/buchu": "^1.2.0",
     "@herbsjs/gotu": "^1.0.0",
     "@herbsjs/suma": "^1.0.0"
   }
