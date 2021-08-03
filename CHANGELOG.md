@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/herbsjs/herbs/compare/v1.2.0...v1.3.0) (2021-08-03)
+
+
+### Features
+
+* **buchu:** add common errors from buchu ([f22f355](https://github.com/herbsjs/herbs/commit/f22f355b44260e0e7a029c2cd43aaba94b1fbb57))
+
 # [1.2.0](https://github.com/herbsjs/herbs/compare/v1.1.2...v1.2.0) (2021-06-23)
 
 
