@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/herbsjs/herbs/compare/v1.3.0...v1.3.1) (2021-08-25)
+
+
+### Bug Fixes
+
+* **buchu:** fix the absence of circular structure treatment ([6efdaa9](https://github.com/herbsjs/herbs/commit/6efdaa9e46412e9e02274ecf2a270ae2ca7abdc7))
+
 # [1.3.0](https://github.com/herbsjs/herbs/compare/v1.2.0...v1.3.0) (2021-08-03)
 
 
