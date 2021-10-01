@@ -34,16 +34,16 @@ Please visit out website for more information: https://herbsjs.org
 
 ### Any doubts?
 
-Please visit out forum for more information: [Herbs Forum](https://github.com/herbsjs/forum/discussions)
+Please visit our [issues](https://github.com/herbsjs/herbs/issues/new/choose) or chat with us in: [Herbs discord](https://discord.gg/e3cQ66KDv5)
 
 
 ### Contribute
 
 Come with us to make an awesome *herbs*.
 
-Now, if you do not have technical knowledge and also have intend to help us, do not feel shy, [click here](https://github.com/herbsjs/forum/discussions/categories/q-a) to open an issue and collaborate their ideas, the contribution may be a criticism or a compliment (why not?)
+Now, if you do not have technical knowledge and also have intend to help us, do not feel shy, [click here](https://discord.gg/e3cQ66KDv5) to chat with us and collaborate their ideas, the contribution may be a criticism or a compliment (why not?)
 
-If you would like to help contribute to this repository, please see [Herbs Forum](https://github.com/herbsjs/forum/discussions/categories/ideas)
+If you would like to help contribute to this repository, please see [CONTRIBUTING](https://github.com/herbsjs/herbs/blob/main/.github/CONTRIBUTING.md)
 
 
 ### License
