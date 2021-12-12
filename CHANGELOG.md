@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/herbsjs/herbs/compare/v1.3.1...v1.4.0) (2021-12-12)
+
+
+### Features
+
+* update buchu, suma and gotu with bug fixes and new features ([19d3805](https://github.com/herbsjs/herbs/commit/19d3805bf04596d146cc383516e069fd0dd29c4a))
+
 ## [1.3.1](https://github.com/herbsjs/herbs/compare/v1.3.0...v1.3.1) (2021-08-25)
 
 
