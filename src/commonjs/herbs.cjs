@@ -8,6 +8,7 @@ module.exports = {
   checker: suma.checker,
   entity : gotu.entity,
   field : gotu.field,
+  id: gotu.id,
   Ok: buchu.Ok,
   Err: buchu.Err,
   usecase: buchu.usecase,

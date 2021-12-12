@@ -1,5 +1,5 @@
 const assert  = require('assert')
-const {entity, field} = require('../src/commonjs/herbs.cjs')
+const {entity, field, id} = require('../src/commonjs/herbs.cjs')
 
 describe('A entity', () => {
 
@@ -7,7 +7,8 @@ describe('A entity', () => {
 
         const givenTheSimplestEntity = () => {
             const AnEntity = entity('A entity', {
-                field1: field(Number)
+                field1: field(Number),
+                field2: id(Number)
             })
             return new AnEntity()
         }
@@ -24,8 +25,11 @@ describe('A entity', () => {
             const instance = givenTheSimplestEntity()
             //when
             instance.field1 = 1
+            instance.field2 = 2
             //then
             assert.strictEqual(instance['field1'], 1)
+            assert.strictEqual(instance['field2'], 2)
+            assert.strictEqual(instance.isValid(), true)
         })
     })
 })
