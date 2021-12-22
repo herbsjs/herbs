@@ -63,6 +63,9 @@ Draft pull requests are also welcome to get feedback early on, or if there is so
 - Create a branch with a name that identifies the user and nature of the changes (similar to `user/branch-purpose`)
 - Open a pull request
 
+## Labels for PR's and Issues
+
+ We have a [list of labels](https://github.com/herbsjs/herbs/labels) that are used inside items and pull requests, please read and respect those labels.
 
 ## Resources
 
