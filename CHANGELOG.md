@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/herbsjs/herbs/compare/v1.4.0...v1.4.1) (2021-12-30)
+
+
+### Bug Fixes
+
+* add correct link at "MIT License" in readme ([0226c5d](https://github.com/herbsjs/herbs/commit/0226c5dcf7290931171c14630de87768d70a1d76))
+
 # [1.4.0](https://github.com/herbsjs/herbs/compare/v1.3.1...v1.4.0) (2021-12-12)
 
 
