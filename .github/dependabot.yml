@@ -9,6 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+    versioning-strategy: increase
     open-pull-requests-limit: 10
     allow:
       - dependency-type: "production"
