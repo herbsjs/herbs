@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/herbsjs/herbs/compare/v1.4.1...v1.4.2) (2022-01-15)
+
+
+### Bug Fixes
+
+* **deps:** bump @herbsjs/buchu from 1.3.1 to 1.3.2 ([d093b72](https://github.com/herbsjs/herbs/commit/d093b72fb833bc45339fec852fbcd11ea3b441ff))
+
 ## [1.4.1](https://github.com/herbsjs/herbs/compare/v1.4.0...v1.4.1) (2021-12-30)
 
 
