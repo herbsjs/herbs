@@ -12,3 +12,7 @@ updates:
     open-pull-requests-limit: 10
     allow:
       - dependency-type: "production"
+    commit-message:
+      prefix: fix
+      prefix-development: chore
+      include: scope

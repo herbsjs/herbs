@@ -1,0 +1,41 @@
+name: CD Build
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    if: "!contains(github.event.head_commit.message, 'skip ci')"
+    runs-on: ubuntu-18.04
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install Packages
+      run: npm ci
+
+    - name: Installing dependencies
+      run: npm i --ignore-scripts
+
+    - name: Build Step
+      env:
+        CI: ""
+      run: npm run build --if-present
+
+    - name: Running Linter - ESLint
+      run: npm run lint
+
+    - name: Run Semantic Release
+      run: npx semantic-release
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

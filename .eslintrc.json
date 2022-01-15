@@ -10,9 +10,10 @@
     "Atomics": "readonly",
     "SharedArrayBuffer": "readonly"
   },
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "parserOptions": {
-    "sourceType": "module"
+    "sourceType": "module",
+    "requireConfigFile": false
   },
   "rules": {
     "semi": ["error", "never"],
