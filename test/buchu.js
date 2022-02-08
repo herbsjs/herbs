@@ -1,4 +1,4 @@
-const { ok, deepStrictEqual, strictEqual, equal, deepEqual }  = require('assert')
+const { ok, deepEqual }  = require('assert')
 
 const {usecase, step, Ok, Err} = require('../src/commonjs/herbs.cjs')
 
