@@ -1,4 +1,4 @@
-const { ok, deepStrictEqual }  = require('assert')
+const { ok, deepStrictEqual, strictEqual, equal, deepEqual }  = require('assert')
 
 const {usecase, step, Ok, Err} = require('../src/commonjs/herbs.cjs')
 
@@ -42,12 +42,13 @@ describe('A use case', () => {
         await uc.run()
         //then
 
-        deepStrictEqual(uc.auditTrail, {
+        deepEqual(uc.auditTrail, {
           type: 'use case',
           description: 'A use case',
           transactionId: uc._mainStep._auditTrail.transactionId,
           elapsedTime: uc._mainStep._auditTrail.elapsedTime,
           return: { Ok: {} },
+          request: null,
           steps: [
             { type: 'step', description: 'A step', return: { Ok: '' }, elapsedTime: uc._auditTrail.steps[0].elapsedTime },
             {
