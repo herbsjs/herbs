@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/herbsjs/herbs/compare/v1.4.2...v1.4.3) (2022-02-08)
+
+
+### Bug Fixes
+
+* update buchu dependency ([047931f](https://github.com/herbsjs/herbs/commit/047931ffbdf1e1a989f0adf75ac6ba59c1db1e49))
+
 ## [1.4.2](https://github.com/herbsjs/herbs/compare/v1.4.1...v1.4.2) (2022-01-15)
 
 
