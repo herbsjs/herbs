@@ -63,7 +63,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@herbsjs/buchu": "1.4.0",
+    "@herbsjs/buchu": "1.5.1",
     "@herbsjs/gotu": "1.1.0",
     "@herbsjs/suma": "1.3.0"
   }
