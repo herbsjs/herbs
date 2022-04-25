@@ -1,3 +1,10 @@
+## [1.4.5](https://github.com/herbsjs/herbs/compare/v1.4.4...v1.4.5) (2022-04-25)
+
+
+### Bug Fixes
+
+* 🐛 update herbs dependencies ([1d43d49](https://github.com/herbsjs/herbs/commit/1d43d497add426a84dd268f0aaa25987235ebae5))
+
 ## [1.4.4](https://github.com/herbsjs/herbs/compare/v1.4.3...v1.4.4) (2022-04-14)
 
 

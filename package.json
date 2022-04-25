@@ -1,6 +1,6 @@
 {
   "name": "@herbsjs/herbs",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "A domain-first framework. Code your domain and your infrastructure will follow",
   "main": "src/commonjs/herbs.cjs",
   "module": "src/esm/herbs.mjs",
