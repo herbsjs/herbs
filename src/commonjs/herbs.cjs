@@ -1,6 +1,7 @@
 const suma = require('@herbsjs/suma')
 const gotu = require('@herbsjs/gotu')
 const buchu = require('@herbsjs/buchu')
+const aloe = require('@herbsjs/aloe')
 
 module.exports = {
   validate : suma.validate,
@@ -13,5 +14,6 @@ module.exports = {
   Err: buchu.Err,
   usecase: buchu.usecase,
   step: buchu.step,
-  ifElse: buchu.ifElse
+  ifElse: buchu.ifElse,
+  specs: aloe
  }
