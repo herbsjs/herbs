@@ -1,3 +1,16 @@
+# [1.5.0](https://github.com/herbsjs/herbs/compare/v1.4.5...v1.5.0) (2022-06-13)
+
+
+### Bug Fixes
+
+* **aloe:** fix dependency ([9ce6843](https://github.com/herbsjs/herbs/commit/9ce6843425a183fa7192e42bd03c1837b5d06aca))
+* **aloe:** fix dependency version ([eefdec4](https://github.com/herbsjs/herbs/commit/eefdec4c1572a772e6cde2da2721ce98f2a1e8b6))
+
+
+### Features
+
+* **spec:** specs (Aloe) is now a new herb avaliable ([7e41bb1](https://github.com/herbsjs/herbs/commit/7e41bb1af4ad6f5726fff8cc880741b56a15df78))
+
 ## [1.4.5](https://github.com/herbsjs/herbs/compare/v1.4.4...v1.4.5) (2022-04-25)
 
 
