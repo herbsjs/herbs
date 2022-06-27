@@ -13,5 +13,6 @@ export default {
   Err: buchu.Err,
   usecase: buchu.usecase,
   step: buchu.step,
-  ifElse: buchu.ifElse
+  ifElse: buchu.ifElse,
+  request: buchu.request
  }

@@ -15,5 +15,6 @@ module.exports = {
   usecase: buchu.usecase,
   step: buchu.step,
   ifElse: buchu.ifElse,
+  request: buchu.request,
   specs: aloe
  }
