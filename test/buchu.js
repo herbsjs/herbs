@@ -1,10 +1,14 @@
 const { ok, deepEqual }  = require('assert')
-
-const {usecase, step, Ok, Err} = require('../src/commonjs/herbs.cjs')
+const {usecase, step, Ok, Err, request, entity, field, id} = require('../src/commonjs/herbs.cjs')
 
 describe('A use case', () => {
 
   describe('the simplest use case', () => {
+
+    const anEntity = entity('anEntiy',{
+      id: id(Number),
+      stringField: field(String)    
+  })
 
     const givenTheSimplestUseCase = () => {
       const uc = usecase('A use case', {
@@ -60,6 +64,20 @@ describe('A use case', () => {
         })
       })
 
+      it('should receive a request entity', () => {
+        //given
+        const schemaExpected = {
+            stringField: String, 
+            id: Number
+        }
+
+        //when
+        const requestResult = request.from(anEntity)
+
+        //then
+        deepEqual(requestResult, schemaExpected)        
+    })
+
     })
 
     context('returning Err', () => {
@@ -81,6 +99,7 @@ describe('A use case', () => {
       })
     })
 
+    
 
   })
 
