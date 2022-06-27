@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/herbsjs/herbs/compare/v1.6.0...v1.6.1) (2022-06-27)
+
+
+### Bug Fixes
+
+* **deps:** update gotu dependency and export request from buchu ([4b1d8b5](https://github.com/herbsjs/herbs/commit/4b1d8b532ee62a682f3227ea1d55f346ec3b4cfb))
+
 # [1.6.0](https://github.com/herbsjs/herbs/compare/v1.5.0...v1.6.0) (2022-06-27)
 
 
