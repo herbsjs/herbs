@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/herbsjs/herbs/compare/v1.6.1...v1.6.2) (2022-08-15)
+
+
+### Bug Fixes
+
+* **herbs:** update herbs dependencies ([5f0930f](https://github.com/herbsjs/herbs/commit/5f0930fd5fdd2fa80ba23e3d4152d4545b1a3c55))
+
 ## [1.6.1](https://github.com/herbsjs/herbs/compare/v1.6.0...v1.6.1) (2022-06-27)
 
 
