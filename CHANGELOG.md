@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/herbsjs/herbs/compare/v1.6.2...v2.0.0) (2023-03-06)
+
+
+### Features
+
+* **buchu:** update buchu version to 2.1.0 ([d038691](https://github.com/herbsjs/herbs/commit/d0386914263f4ebd4cca85e0cdc088930a7c199e))
+
+
+### BREAKING CHANGES
+
+* **buchu:** Projects that are using ctx.user. A ctx.user variable will now be overridden by
+context. So now this variable becomes reserved by the library and we recommend not using it beyond
+the purpose of capturing user information coming via authorize
+
+re https://github.com/herbsjs/buchu/pull/92
+
 ## [1.6.2](https://github.com/herbsjs/herbs/compare/v1.6.1...v1.6.2) (2022-08-15)
 
 
