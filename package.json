@@ -63,7 +63,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@herbsjs/aloe": "1.0.3",
+    "@herbsjs/aloe": "2.2.1",
     "@herbsjs/buchu": "2.1.0",
     "@herbsjs/gotu": "1.2.0",
     "@herbsjs/suma": "1.3.1"
