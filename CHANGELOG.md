@@ -1,3 +1,10 @@
+# [2.1.0-beta.4](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.3...v2.1.0-beta.4) (2023-03-29)
+
+
+### Bug Fixes
+
+* **aloe:** fix export main ([348bf2d](https://github.com/herbsjs/herbs/commit/348bf2de9173d8dcb55dede8d16d255c223331b9))
+
 # [2.1.0-beta.3](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.2...v2.1.0-beta.3) (2023-03-29)
 
 
