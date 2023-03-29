@@ -1,3 +1,15 @@
+# [2.1.0-beta.3](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.2...v2.1.0-beta.3) (2023-03-29)
+
+
+### Bug Fixes
+
+* **dependecies:** aloe and buchu ([d947b25](https://github.com/herbsjs/herbs/commit/d947b25b0dbe972bba6fda82c6b01295c9cead73))
+
+
+### Features
+
+* **buchu:** bump version to beta ([34feedb](https://github.com/herbsjs/herbs/commit/34feedb93204b4dbac15c59208874cb5610fe0bf))
+
 # [2.1.0-beta.2](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.1...v2.1.0-beta.2) (2023-03-29)
 
 
