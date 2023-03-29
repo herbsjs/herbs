@@ -1,3 +1,10 @@
+# [2.1.0-beta.2](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.1...v2.1.0-beta.2) (2023-03-29)
+
+
+### Features
+
+* **gotu:** updated version ([4eebf99](https://github.com/herbsjs/herbs/commit/4eebf999c2ed42ca245ef1227b982a74990e642d))
+
 # [2.1.0-beta.1](https://github.com/herbsjs/herbs/compare/v2.0.0...v2.1.0-beta.1) (2023-03-29)
 
 
