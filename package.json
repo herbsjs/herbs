@@ -13,7 +13,7 @@
     "commit": "cz"
   },
   "engines": {
-    "node": ">= 14.x"
+    "node": ">= 16.x"
   },
   "exports": {
     "import": "./src/esm/herbs.mjs",
