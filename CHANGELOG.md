@@ -1,3 +1,10 @@
+# [2.1.0-beta.1](https://github.com/herbsjs/herbs/compare/v2.0.0...v2.1.0-beta.1) (2023-03-29)
+
+
+### Features
+
+* **suma:** tryParse is a helper function that tries to parse a value to the expected type ([7986652](https://github.com/herbsjs/herbs/commit/798665215c55e4254fdb315055c10658f24c479f))
+
 # [2.0.0](https://github.com/herbsjs/herbs/compare/v1.6.2...v2.0.0) (2023-03-06)
 
 
