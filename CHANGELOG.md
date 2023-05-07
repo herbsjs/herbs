@@ -1,3 +1,10 @@
+# [2.1.0-beta.5](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.4...v2.1.0-beta.5) (2023-05-07)
+
+
+### Features
+
+* **entity:** onlyIDs and reference validation ([e89483b](https://github.com/herbsjs/herbs/commit/e89483b16228f644738786601b7af08c5e3631bc))
+
 # [2.1.0-beta.4](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.3...v2.1.0-beta.4) (2023-03-29)
 
 
