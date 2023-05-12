@@ -1,3 +1,10 @@
+# [2.1.0-beta.6](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.5...v2.1.0-beta.6) (2023-05-12)
+
+
+### Features
+
+* **specs:** update Aloe version - scenario.only feature ([1921511](https://github.com/herbsjs/herbs/commit/192151163588be1728f082f8b88542bcfa6a1c75))
+
 # [2.1.0-beta.5](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.4...v2.1.0-beta.5) (2023-05-07)
 
 
