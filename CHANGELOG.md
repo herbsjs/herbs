@@ -1,3 +1,10 @@
+# [2.1.0-beta.7](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.6...v2.1.0-beta.7) (2023-11-22)
+
+
+### Features
+
+* 🎸 update suma, buchu , gotu and aloe ([79c901e](https://github.com/herbsjs/herbs/commit/79c901eb4ce20516576a3d5af3f9d2a0ecfe60cf))
+
 # [2.1.0-beta.6](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.5...v2.1.0-beta.6) (2023-05-12)
 
 
