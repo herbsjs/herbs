@@ -1,3 +1,21 @@
+# [2.1.0](https://github.com/herbsjs/herbs/compare/v2.0.0...v2.1.0) (2023-11-22)
+
+
+### Bug Fixes
+
+* **aloe:** fix export main ([348bf2d](https://github.com/herbsjs/herbs/commit/348bf2de9173d8dcb55dede8d16d255c223331b9))
+* **dependecies:** aloe and buchu ([d947b25](https://github.com/herbsjs/herbs/commit/d947b25b0dbe972bba6fda82c6b01295c9cead73))
+
+
+### Features
+
+* 🎸 update suma, buchu , gotu and aloe ([79c901e](https://github.com/herbsjs/herbs/commit/79c901eb4ce20516576a3d5af3f9d2a0ecfe60cf))
+* **buchu:** bump version to beta ([34feedb](https://github.com/herbsjs/herbs/commit/34feedb93204b4dbac15c59208874cb5610fe0bf))
+* **entity:** onlyIDs and reference validation ([e89483b](https://github.com/herbsjs/herbs/commit/e89483b16228f644738786601b7af08c5e3631bc))
+* **gotu:** updated version ([4eebf99](https://github.com/herbsjs/herbs/commit/4eebf999c2ed42ca245ef1227b982a74990e642d))
+* **specs:** update Aloe version - scenario.only feature ([1921511](https://github.com/herbsjs/herbs/commit/192151163588be1728f082f8b88542bcfa6a1c75))
+* **suma:** tryParse is a helper function that tries to parse a value to the expected type ([7986652](https://github.com/herbsjs/herbs/commit/798665215c55e4254fdb315055c10658f24c479f))
+
 # [2.1.0-beta.7](https://github.com/herbsjs/herbs/compare/v2.1.0-beta.6...v2.1.0-beta.7) (2023-11-22)
 
 
