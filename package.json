@@ -1,6 +1,6 @@
 {
   "name": "@herbsjs/herbs",
-  "version": "2.0.0",
+  "version": "2.1.0-beta.7",
   "description": "A domain-first framework. Code your domain and your infrastructure will follow",
   "main": "src/commonjs/herbs.cjs",
   "module": "src/esm/herbs.mjs",
@@ -13,7 +13,7 @@
     "commit": "cz"
   },
   "engines": {
-    "node": ">= 14.x"
+    "node": ">= 16.x"
   },
   "exports": {
     "import": "./src/esm/herbs.mjs",
@@ -31,19 +31,19 @@
     "herbs"
   ],
   "devDependencies": {
-    "@babel/eslint-parser": "^7.18.9",
-    "@semantic-release/changelog": "^6.0.1",
+    "@babel/eslint-parser": "^7.23.3",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^8.0.5",
     "@semantic-release/npm": "^9.0.1",
     "@semantic-release/release-notes-generator": "^10.0.3",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.22.0",
+    "eslint": "^8.54.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "mocha": "^10.0.0",
+    "mocha": "^10.2.0",
     "nyc": "^15.1.0",
     "prettier": "^2.7.1",
     "semantic-release": "^19.0.3"
@@ -63,9 +63,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@herbsjs/aloe": "1.0.3",
-    "@herbsjs/buchu": "2.1.0",
-    "@herbsjs/gotu": "1.2.0",
-    "@herbsjs/suma": "1.3.1"
+    "@herbsjs/aloe": "^2.3.0",
+    "@herbsjs/buchu": "^2.1.1",
+    "@herbsjs/gotu": "^1.3.0",
+    "@herbsjs/suma": "^1.4.0"
   }
 }

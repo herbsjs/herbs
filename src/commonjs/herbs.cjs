@@ -7,6 +7,7 @@ module.exports = {
   validate : suma.validate,
   errorCodes : suma.errorCodes,
   checker: suma.checker,
+  tryParse: suma.tryParse,
   entity : gotu.entity,
   field : gotu.field,
   id: gotu.id,
